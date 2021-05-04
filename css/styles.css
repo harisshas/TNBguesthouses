@@ -20,8 +20,8 @@ body
   margin-top: 0;
   margin-bottom: 0;
   font-family:monospace;
-  font-size: 30px;
-  color:#334443
+  font-size: 35px;
+  color:red
 }
 .div1
 {
@@ -36,7 +36,6 @@ body
 {
   display:inline-block;
   background-color: #cbf1f5;
-
 }
 .div3
 {
@@ -45,4 +44,9 @@ body
   font-family:monospace;
   font-size: 20px;
   color:#334443
+}
+.div4
+{
+  display:inline-block;
+  background-color: #cbf1f5;
 }
