@@ -44,9 +44,11 @@ body
   font-family:monospace;
   font-size: 20px;
   color:#334443
+  text-align:center;
 }
 .div4
 {
   display:inline-block;
   background-color: #cbf1f5;
+  text-align:center;
 }
