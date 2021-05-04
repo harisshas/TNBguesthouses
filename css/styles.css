@@ -1,0 +1,38 @@
+body
+{
+  background-color: #cbf1f5;
+  text-align:center;
+  margin-top: 0;
+}
+.titletext
+{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.div1
+{
+  display:inline-block;
+  position: fixed;
+  background-color: #cbf1f5;
+  right:0px;
+  left:0px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family:monospace;
+  font-size: 30px;
+  color:#334443
+}
+.div2
+{
+  display:inline-block;
+  background-color: #cbf1f5;
+}
+.div3
+{
+  display:inline-block;
+  background-color: #cbf1f5;
+  font-family:monospace;
+  font-size: 20px;
+  color:#334443
+}
