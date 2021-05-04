@@ -10,7 +10,7 @@ body
   margin-bottom: 0;
 }
 
-.div1
+.div0
 {
   display:inline-block;
   position: fixed;
@@ -23,10 +23,20 @@ body
   font-size: 30px;
   color:#334443
 }
+.div1
+{
+  display:inline-block;
+  background-color: #cbf1f5;
+  margin-top:80px;
+  font-family:monospace;
+  font-size: 30px;
+  color:#334443
+}
 .div2
 {
   display:inline-block;
   background-color: #cbf1f5;
+
 }
 .div3
 {
