@@ -20,7 +20,7 @@ body
   margin-top: 0;
   margin-bottom: 0;
   font-family:monospace;
-  font-size: 35px;
+  font-size: 2rem;
   color:red
 }
 .div1
@@ -28,8 +28,10 @@ body
   display:inline-block;
   background-color: #cbf1f5;
   margin-top:80px;
+  right:0px;
+  left:0px;
   font-family:monospace;
-  font-size: 30px;
+  font-size: 2rem;
   color:#334443
 }
 .div2
@@ -42,13 +44,17 @@ body
   display:inline-block;
   background-color: #cbf1f5;
   font-family:monospace;
-  font-size: 20px;
+  font-size: 1.5rem;
   color:#334443
-  text-align:center;
+  right:0px;
+  left:0px;
+
 }
 .div4
 {
   display:inline-block;
   background-color: #cbf1f5;
-  text-align:center;
+  right:0px;
+  left:0px;
+  
 }
