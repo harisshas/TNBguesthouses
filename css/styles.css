@@ -9,7 +9,6 @@ body
   margin-top: 0;
   margin-bottom: 0;
 }
-
 .div0
 {
   display:block;
@@ -20,7 +19,6 @@ body
   font-family:monospace;
   font-size: 2rem;
   color:red
-
 }
 .div1
 {
@@ -31,33 +29,44 @@ body
   font-family:monospace;
   font-size: 2rem;
   color:#334443
-
-
 }
 .div2
 {
   display:inline-block;
-
   background-color: #cbf1f5;
   width:90rem;
-
 }
 .div3
 {
   display:inline-block;
-
   background-color: #cbf1f5;
   font-family:monospace;
   font-size: 1.5rem;
   color:#334443;
   width:90rem;
-
 }
 .div4
 {
   display:inline-block;
-  
   background-color: #cbf1f5;
   width:90rem;
-
+}
+.div5
+{
+  display:inline-block;
+  background-color: #cbf1f5;
+  width:90rem;
+}
+.div6
+{
+  background-color: #cbf1f5;
+  border-color: black;
+}
+.roomdesctext
+{
+  font-family:monospace;
+  font-size: 3rem;
+  color:#334443;
+  margin-top: 0;
+  margin-bottom: 0;
 }
