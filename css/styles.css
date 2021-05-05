@@ -12,13 +12,11 @@ body
 
 .div0
 {
-  display:inline-block;
+  display:block;
   position: fixed;
   background-color: #cbf1f5;
   right:0px;
   left:0px;
-  margin-top: 0;
-  margin-bottom: 0;
   font-family:monospace;
   font-size: 2rem;
   color:red
@@ -27,11 +25,8 @@ body
 .div1
 {
   display:inline-block;
-  position:relative;
   background-color: #cbf1f5;
   margin-top:80px;
-  margin-left: auto;
-  margin-right: auto;
   width:90rem;
   font-family:monospace;
   font-size: 2rem;
@@ -42,30 +37,27 @@ body
 .div2
 {
   display:inline-block;
-  position:relative;
+
   background-color: #cbf1f5;
   width:90rem;
-  left:0px;
-  right:0px;
+
 }
 .div3
 {
   display:inline-block;
-  position:relative;
+
   background-color: #cbf1f5;
   font-family:monospace;
   font-size: 1.5rem;
   color:#334443;
   width:90rem;
-  left:0px;
-  right:0px;
+
 }
 .div4
 {
   display:inline-block;
-  position:relative;
+  
   background-color: #cbf1f5;
   width:90rem;
-  left:0px;
-  right:0px;
+
 }
