@@ -3,11 +3,21 @@ body
   background-color: #cbf1f5;
   text-align:center;
   margin-top: 0;
+  width:90rem;
 }
-.titletext
+.titletext0
 {
   margin-top: 0;
   margin-bottom: 0;
+  font-family:monospace;
+  font-size: 7rem;
+  color:red
+}
+.titletext
+{
+  font-family:monospace;
+  font-size: 4rem;
+  color:#334443
 }
 .div0
 {
@@ -16,19 +26,13 @@ body
   background-color: #cbf1f5;
   right:0px;
   left:0px;
-  font-family:monospace;
-  font-size: 2rem;
-  color:red
 }
 .div1
 {
   display:inline-block;
   background-color: #cbf1f5;
-  margin-top:80px;
+  margin-top:6rem;
   width:90rem;
-  font-family:monospace;
-  font-size: 2rem;
-  color:#334443
 }
 .div2
 {
@@ -63,7 +67,16 @@ body
   background-color: #cbf1f5;
   text-align: center;
   width:50rem;
-  
+}
+.div7
+{
+  text-align: center;
+}
+.div8
+{
+  display:inline-flex;
+  background-color: #cbf1f5;
+
 }
 .roomimage
 {
@@ -79,4 +92,34 @@ body
   margin-left:1em;
   margin-right: 0;
   margin-bottom: 0;
+}
+.contactustext
+{
+  font-family:monospace;
+  font-size:2.5rem;
+  color:#334443;
+  margin-top: 0;
+  margin-bottom:0;
+}
+.phone_icon
+{
+  width:10%;
+  height:10%;
+  margin-top: 0;
+  margin-bottom:0;
+}
+.dottedhr
+{
+  background-color:#cbf1f5;
+  border-style: dotted none none;
+  border-color:grey;
+  border-width:5px;
+  height:0px;
+  width:40%;
+}
+.designersign
+{
+  font-family: 'Dancing Script', cursive;
+  font-size:3rem;
+  color:#334443;
 }
