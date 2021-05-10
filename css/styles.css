@@ -81,8 +81,8 @@ body
 }
 .roomimage
 {
- width:30%;
- height:30%;
+ width:25rem;
+ height:auto;
 }
 .roomdesctext
 {
