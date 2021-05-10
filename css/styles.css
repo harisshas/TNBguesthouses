@@ -67,6 +67,7 @@ body
   background-color: #cbf1f5;
   text-align: center;
   width:50rem;
+  height:auto;
 }
 .div7
 {
@@ -104,7 +105,7 @@ body
 .phone_icon
 {
   width:10%;
-  height:10%;
+  height:auto;
   margin-top: 0;
   margin-bottom:0;
 }
